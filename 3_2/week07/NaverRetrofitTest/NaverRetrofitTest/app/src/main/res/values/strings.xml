@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NaverRetrofitTest</string>
+    <string name="naver_api_url">https://openapi.naver.com/</string>
+    <string name="client_id">RokL89A4jdt9C2qOWBDL</string>
+    <string name="client_secret">2_4Td8jhlL</string>
+    <string name="image_url">https://shopping-phinf.pstatic.net/main_3245197\/32451971823.20220519081242.jpg</string>
+</resources>

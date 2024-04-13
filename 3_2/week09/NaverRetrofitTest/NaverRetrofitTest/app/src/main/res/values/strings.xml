@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NaverRetrofitTest</string>
+    <string name="naver_api_url">https://openapi.naver.com/</string>
+    <string name="client_id">n0eA9Hgt_wEvGaxlg5bs</string>
+    <string name="client_secret">pfIwENynbt</string>
+</resources>

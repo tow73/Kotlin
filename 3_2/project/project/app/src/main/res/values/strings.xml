@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="naver_api_url">https://openapi.naver.com/</string>
+    <string name="api_url">https://openapi.naver.com/v1/papago/n2mt</string>
+    <string name="client_id">SIgYaQUbr9dHnYTrDg9K</string>
+    <string name="client_secret">9gQrHtO3ta</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NetworkTest</string>
+    <string name="image_url">https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2tuoLt3wVnUbbmP40JbeBLcqHJ1dWO8Tfgw&amp;usqp=CAU</string>
+    <string name="kobis_url">http://kobis.or.kr/kobisopenapi/webservice/rest/boxoffice/searchDailyBoxOfficeList.xml?key=f5eef3421c602c6cb7ea224104795888&amp;targetDt=</string>
+</resources>

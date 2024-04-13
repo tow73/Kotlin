@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BasicFileTest</string>
+    <string name="image_url">https://postfiles.pstatic.net/MjAyMTA4MjJfMTcg/MDAxNjI5NjMxMDgxMzg3.09uupTbBCtCpQYFqUxFihOzxOIhxdiJri4cggV7d9OAg._M5s23G732Yvdm9FdDXehf5sohzg1zYNU4QOOs7iuLUg.JPEG.kioncr/IMG%EF%BC%BF20210822%EF%BC%BF002812%EF%BC%BF825.jpg?type=w580</string>
+    <!--<string name="image_url">http://soft.dongduk.ac.kr:8080/downloads/images/cat.jpg</string>--> <!-- url 오류. -->
+</resources>
